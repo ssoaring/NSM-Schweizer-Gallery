@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cml css="styles.css" tuio="false" simulator="false">
+
+	<LibraryKit>
+		<Library type="swf" src="Glider Timeline/library/swfs/openexhibits_assets.swf" />	
+	</LibraryKit>
+	
+<TouchContainer x="-250" y="0" width="1920" height="890" touchChildren="true" visible="true">
+
+		<Image id="background" src="Glider Timeline/library/images/timeline-bg.png" />
+	
+		<!-- Close Button -->	
+		<Include src="Glider Timeline/library/cml/buttons/closeButton.cml"/>
+			
+<Album x="20" y="120" margin="20" width="1880" height="890" backgroundAlpha="0" touchChildren="true" clusterBubbling="true" dragGesture="album-drag">
+
+
+<RenderKit dataRootTag="model">
+	<Renderer dataPath="Glider Timeline/Render Data/Glider Models.cml">	
+		<TouchContainer width="600" height="890" touchChildren="true">
+			<Graphic shape="rectangle" width="600" height="890" fill="color" color="0xffffff" lineStroke="0" alpha="0.7"/>
+			<TouchContainer touchChildren="true" >
+				<Image src="{imagepath}" width="600" height="500" resize="true"/>
+			</TouchContainer>
+			<TouchContainer touchChildren="true" targetParent="true">
+			<Text text="{title}" y="490" textAlign="center" color="0x000000" fontSize="60" width="600" font="OpenSansRegular" selectable="false"/>
+			<Text text="{year}" y="560" textAlign="center" color="0x000000" fontSize="25" width="600" font="OpenSansRegular" selectable="false"/>
+			<Text text="{built}" y="590" textAlign="center" color="0x000000" fontSize="25" width="600" font="OpenSansRegular" selectable="false"/>
+			<Text text="{excerpt}" x="20" y="635" selectable="false" color="0x000000" fontSize="19" alpha="0.6" wordWrap="true" multiline="true" width="540" height="300" font="OpenSansRegular"/>
+			</TouchContainer>
+			
+			<!--Additional Info Button-->
+			<Button id="info-btn" class="info_btn" dispatch="{button-dispatch}" hit="info-hit" initial="info-up" down="info-down" up="info-up" out="info-up" x="390" y="840">
+				<Container id="info-up">
+					<Graphic alpha="0.5" shape="rectangle" width="200" height="40" color="0x000000" />	
+					<Text text="Additional Info" textAlign="center" color="0xFFFFFF" fontSize="20" width="200" font="OpenSansRegular" selectable="false"/>
+				</Container>
+				<Container id="info-down">
+					<Graphic alpha="1" shape="rectangle" width="200" height="40" color="0x474747"/>	
+				</Container>	
+				<Container id="info-hit" alpha="0">
+					<Graphic shape="rectangle" width="200" height="40" color="0x666666"/>	
+				</Container>
+			</Button>
+				
+			
+			<!--Aircraft 3-View Button-->
+			<Hotspot id="3-View" component="{panel-id_3-View}" tether="false" x="{posx}" y="-120">
+				<Button id="3-View" class="3_View" dispatch="{button-dispatch_3-View}" hit="3-View" initial="3-View-up" down="3-View-down" up="3-View-up" out="3-View-up" x="{b2posx}" y="960">
+					<Container id="3-View-up">
+						<Graphic alpha="0.5" shape="rectangle" width="200" height="40" color="0x000000" />
+						<Text text="3-View Drawing" textAlign="center" color="0xFFFFFF" fontSize="20" width="200" font="OpenSansRegular" selectable="false"/>
+					</Container>
+					<Container id="3-View-down">
+						<Graphic alpha="0.5" shape="rectangle" width="200" height="40" color="0x474747"/>	
+					</Container>	
+					<Container id="3-View-hit" alpha="0">
+						<Graphic shape="rectangle" width="200" height="40" color="0x666666"/>	
+					</Container>
+				</Button>
+			</Hotspot>
+			
+			
+			<!--Info Panel Screen-->
+			<TouchContainer id="{panel-id}" touchChildren="true" visible="false" >
+				<Graphic visible="true" shape="rectangle" width="600" height="890" fill="color" color="0x0000000" lineStroke="0" alpha="1" touchChildren="false">
+					<Image src="{imagepath-2}" width="600" height="500"/>
+					<Text id="txt1" text="{model-text}" x="50" y="540" width="500" height="860" color="0xffffff" wordWrap="true" multiline="true" fontSize="20" font="OpenSansRegular"/>									
+				</Graphic>
+				
+				<!--Close Button-->
+				<Button x="560" y="800" class="close_btn" dispatch="{button-dispatch}" hit="close-hit" initial="close-up" down="close-down" up="close-up" out="close-up" scale="0.75">
+					<Container id="close-up" class="up" >
+						<Graphic alpha="1" shape="circle" radius="20" lineStroke="0" color="0xffffff" />	
+						<SWF alpha="1" x="11" y="11" color="0x000000" scale="1.6" ref="org.openexhibits.assets.Close"/>
+					</Container>
+					<Container id="close-down" class="down">
+						<Graphic alpha="1" shape="circle" radius="20" lineStroke="0" color="0x000000" />	
+						<SWF alpha="1" x="11" y="11" color="0x000000" scale="1.6" ref="org.openexhibits.assets.Close" />
+					</Container>	
+					<Container id="close-hit" class="hit">
+						<Graphic id="close-hit-bg" shape="circle" radius="20" alpha="0" />
+					</Container>
+				</Button>					
+			</TouchContainer>
+			
+			
+			<!--Aircraft 3-View Panel Screen-->
+			<TouchContainer id="{panel-id_3-View}" touchChildren="true" visible="false">
+				<Graphic visible="true" shape="rectangle" width="600" height="890" fill="color" color="0x0000000" lineStroke="0" alpha="1" touchChildren="false">
+					<Image src="{imagepath-3}" width="600" height="890"/>
+				</Graphic>
+				
+				<!--Close Button-->
+				<Button x="560" y="800" class="close_btn" dispatch="{button-dispatch_3-View}" hit="close-hit" initial="close-up" down="close-down" up="close-up" out="close-up" scale="0.75">
+					<Container id="close-up" class="up" >
+						<Graphic alpha="1" shape="circle" radius="20" lineStroke="0" color="0x000000" />	
+						<SWF alpha="1" x="11" y="11" color="0xFFFFFF" scale="1.6" ref="org.openexhibits.assets.Close"/>
+					</Container>
+					<Container id="close-down" class="down">
+						<Graphic alpha="1" shape="circle" radius="20" lineStroke="0" color="0xFFFFFF" />	
+						<SWF alpha="1" x="11" y="11" color="0xFFFFFF" scale="1.6" ref="org.openexhibits.assets.Close" />
+					</Container>	
+					<Container id="close-hit" class="hit">
+						<Graphic id="close-hit-bg" shape="circle" radius="20" alpha="0" />
+					</Container>
+				</Button>					
+			</TouchContainer>
+		</TouchContainer>
+	</Renderer>
+</RenderKit>
+</Album>
+</TouchContainer>
+</cml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cml css="styles.css" tuio="false" simulator="false">
+
+	<RenderKit dataRootTag="3-View">
+		<Renderer dataPath="Glider Timeline/Render Data/Glider 3-View Data.cml">	
+			<TouchContainer id="{panel-id_3-View}" visible="false" width="600" height="890" touchChildren="true" >
+			
+				<!--Aircraft 3-View Panel Screen-->
+					<Image src="{imagepath-3}" width="600" height="890"/>
+					
+					<!--Close Button-->
+					<Hotspot component="{panel-id_3-View}" visible="true" tether="false">
+						<Button x="560" y="850" class="close_btn" dispatch="down:3-View" hit="close-hit" initial="close-up" down="close-down" up="close-up" out="close-up" scale="0.75">
+							<Container id="close-up" class="up" >
+								<Graphic alpha="1" shape="circle" radius="20" lineStroke="0" color="0x000000" />	
+								<SWF alpha="1" x="11" y="11" color="0xFFFFFF" scale="1.6" ref="org.openexhibits.assets.Close"/>
+							</Container>
+							<Container id="close-down" class="down">
+								<Graphic alpha="1" shape="circle" radius="20" lineStroke="0" color="0xFFFFFF" />	
+								<SWF alpha="1" x="11" y="11" color="0xFFFFFF" scale="1.6" ref="org.openexhibits.assets.Close" />
+							</Container>	
+							<Container id="close-hit" class="hit">
+								<Graphic id="close-hit-bg" shape="circle" radius="20" alpha="0" />
+							</Container>
+						</Button>
+					</Hotspot>
+				
+			</TouchContainer>
+		</Renderer>
+	</RenderKit>
+	
+	
+</cml>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	<RenderKit>			
+		
+		<RendererData>
+			<!--SGP 1-1-->
+			<model>
+				<button-dispatch>down:SGP_1-1</button-dispatch>
+				<button-dispatch_3-View>down:SGP_1-1_2</button-dispatch_3-View>
+				<posx>-220</posx>
+				<b1posx>610</b1posx>
+				<b2posx>230</b2posx>
+				<imagepath>Glider Timeline/library/images/SGP_1-1.jpg</imagepath>
+				<title>SGP 1-1</title>
+				<button1>SGP_1-1</button1>
+				<button2>SGP_1-1_2</button2>
+				<year>Year Built: 1930</year>
+				<built>Quantity Built: 2</built>
+				<excerpt>The SGP 1-1 is the first Schweizer glider. It was designed by Ernie Schweizer and modeled after the popular primary gliders that were used by the German Youth Program in the 1920-1930 Period.</excerpt>
+			</model>
+			
+			<!--SGU 1-2-->
+			<model>
+				<button-dispatch>down:SGU_1-2</button-dispatch>
+				<button-dispatch_3-View>down:SGU_1-2_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGU_1-2.jpg</imagepath>
+				<title>SGU 1-2</title>
+				<button1>SGU_1-2</button1>
+				<button2>SGU_1-2_2</button2>
+				<year>Year Built: 1934</year>
+				<built>Quantity Built: 1</built>
+				<excerpt>After attending the second National Soaring Meet in 1931, based at the Caton Avenue Airport in Elmira and the surrounding hills, the Schweizer brothers decided to build  the SGU 1-2. During the meet there was several accidents, some of them serious in nature, which left a lasting impression on the need for structural integrity, stability & pilot protection.</excerpt>
+			</model>
+			
+			<!--SGU 1-3-->
+			<model>
+				<button-dispatch>down:SGU_1-3</button-dispatch>
+				<button-dispatch_3-View>down:SGU_1-3_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGU_1-3.jpg</imagepath>
+				<title>SGU 1-3</title>
+				<button1>SGU_1-3</button1>
+				<button2>SGU_1-3_2</button2>
+				<year>Year Built: 1933</year>
+				<built>Quantity Built: 1</built>
+				<excerpt>After attending the third National Soaring Contest in 1932, the brothers came away impressed by the simple and practical Baker-McMillan Cadet. While the 1-2 was currently under production they decided that a smaller, simpler, more weight efficient could be finished first.</excerpt>
+			</model>
+			
+			<!--SGU 1-6-->
+			<model>
+				<button-dispatch>down:SGU_1-6</button-dispatch>
+				<button-dispatch_3-View>down:SGU_1-6_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGU_1-6.jpg</imagepath>
+				<title>SGU 1-6</title>
+				<button1>SGU_1-6</button1>
+				<button2>SGU_1-6_2</button2>
+				<year>Year Built: 1937</year>
+				<built>Quantity Built: 1</built>
+				<excerpt>The 1-6 was the Schweizer brothers first entrance into an all-metal glider. Ernie & Paul having both recently graduated from NYU engineering school saw the benefits of using formed aluminum construction over the more commonly used wooden construction.</excerpt>
+			</model>
+			
+				<!--SGU 1-7-->
+			<model>
+				<button-dispatch>down:SGU_1-7</button-dispatch>
+				<button-dispatch_3-View>down:SGU_1-7_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGU_1-7.jpg</imagepath>
+				<title>SGU 1-7</title>
+				<button1>SGU_1-7</button1>
+				<button2>SGU_1-7_2</button2>
+				<year>Year Built: 1937</year>
+				<built>Quantity Built: 2</built>
+				<excerpt>Developed in 1937, the 1-7 design concept was used in many future Schweizer sailplane designs. Its light weight made it easy to handle on the ground and a joy to fly.</excerpt>
+			</model>
+				
+			<!--SGS 2-8-->
+			<model>
+				<button-dispatch>down:SGS_2-8</button-dispatch>
+				<button-dispatch_3-View>down:SGS_2-8_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_2-8.jpg</imagepath>
+				<title>SGS 2-8</title>
+				<button1>SGS_2-8</button1>
+				<button2>SGS_2-8_2</button2>
+				<year>Year Built: 1938</year>
+				<built>Quantity Built: 57</built>
+				<excerpt>In 1937 the Airhoppers Soaring Club asked the Schweizer Brothers to design & build a 2-place sailplane for soaring contests and for training. The majority of the training done at this time is done via single place gliders. There were very few 2-place sailplanes  available for training.</excerpt>
+			</model>
+			
+			<!--SGS 2-12-->
+			<model>
+				<button-dispatch>down:SGS_2-12</button-dispatch>
+				<button-dispatch_3-View>down:SGS_2-12_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_2-12.jpg</imagepath>
+				<title>SGS 2-12</title>
+				<button1>SGS_2-12</button1>
+				<button2>SGS_2-12_2</button2>
+				<year>Year Built: 1941</year>
+				<built>Quantity Built: 115</built>
+				<excerpt>The SGS 2-12 was the successor to the 2-8. Due to the expansion of the military prior to the start of WWII there was a severe shortage of aircraft grade alloy aluminum which led to the development of the 2-12. It was designed to keep the amount of war critical materials used to a minimum by utilizing wooden wings instead of the aluminum ones on the 2-8.</excerpt>
+			</model>
+			
+			<!--SGU 1-19-->
+			<model>
+				<button-dispatch>down:SGU_1-19</button-dispatch>
+				<button-dispatch_3-View>down:SGU_1-19_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGU_1-19.jpg</imagepath>
+				<title>SGU 1-19</title>
+				<button1>SGU_1-19</button1>
+				<button2>SGU_1-19_2</button2>
+				<year>Year Built: 1941</year>
+				<built>Quantity Built: 57</built>
+				<excerpt>   </excerpt>
+			</model>
+			
+			<!--SGU 1-20-->
+			<model>
+				<button-dispatch>down:SGU_1-20</button-dispatch>
+				<button-dispatch_3-View>down:SGU_1-20_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGU_1-20.jpg</imagepath>
+				<title>SGU 1-20</title>
+				<button1>SGU_1-20</button1>
+				<button2>SGU_1-20_2</button2>
+				<year>Year Built: 1946</year>
+				<built>Quantity Built: 2</built>
+				<excerpt>The 1-20 was an extended-span version of the 1-19 to achieve better soaring performance at minimal cost. The fuselage and tail surfaces were exactly the same as the 1-19, but the span was stretched to 43 ft from 36.7 ft.</excerpt>
+			</model>
+			
+			<!--SGS 1-21-->
+			<model>
+				<button-dispatch>down:SGS_1-21</button-dispatch>
+				<button-dispatch_3-View>down:SGS_1-21_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_1-21.jpg</imagepath>
+				<title>SGS 1-21</title>
+				<button1>SGS_1-21</button1>
+				<button2>SGS_1-21_2</button2>
+				<year>Year Built: 1947</year>
+				<built>Quantity Built: 2</built>
+				<excerpt>   </excerpt>
+			</model>
+			
+			<!--SGU 2-22-->
+			<model>
+				<button-dispatch>down:SGU_2-22</button-dispatch>
+				<button-dispatch_3-View>down:SGU_2-22_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGU_2-22.jpg</imagepath>
+				<title>SGU 2-22</title>
+				<button1>SGU_2-22</button1>
+				<button2>SGU_2-22_2</button2>
+				<year>Year Built: 1946</year>
+				<built>Quantity Built: 257</built>
+				<excerpt>The 2-22 was introduced in 1945 and became (until superseded by the 2-33) the most used two-place basic trainer in the U.S..</excerpt>
+			</model>
+			
+			<!--SGS 1-23-->
+			<model>
+				<button-dispatch>down:SGS_1-23</button-dispatch>
+				<button-dispatch_3-View>down:SGS_1-23_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_1-23.jpg</imagepath>
+				<title>SGS 1-23</title>
+				<button1>SGS_1-23</button1>
+				<button2>SGS_1-23_2</button2>
+				<year>Year Built: 1948</year>
+				<built>Quantity Built: 72</built>
+				<excerpt>The SGS 1-23 was the most popular competition sailplane of the 1950s. The all-metal prototype first flew in July 1948, starting the 1-23 series’ two-decade assault on national altitude and distance records. Early production examples could be had for $2,200, but with common add-ons the cost generally fell in the $2,500 range.</excerpt>
+			</model>
+			
+			<!--SGS 1-24-->
+			<model>
+				<button-dispatch>down:SGS_1-24</button-dispatch>
+				<button-dispatch_3-View>down:SGS_1-24_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_1-24.jpg</imagepath>
+				<title>SGS 1-24</title>
+				<button1>SGS_1-24</button1>
+				<button2>SGS_1-24_2</button2>
+				<year>Year Built: 1953</year>
+				<built>Quantity Built: 1</built>
+				<excerpt>The 1-24  was collaborative design between Howard Burr & Ernie Schweizer. Howie was the chief of lofting at Schweizer for many years and while working there he decided he wanted to build his own sailplane. The original design was to take a production 1-23 fuselage and make a new set of straight tapered wings with a span of 55.5 ft in order to increase performance.</excerpt>
+			</model>
+			
+			<!--SGS 2-25-->
+			<model>
+				<button-dispatch>down:SGS_2-25</button-dispatch>
+				<button-dispatch_3-View>down:SGS_2-25_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_2-25.jpg</imagepath>
+				<title>SGS 2-25</title>
+				<button1>SGS_2-25</button1>
+				<button2>SGS_2-25_2</button2>
+				<year>Year Built: 1954</year>
+				<built>Quantity Built: 1</built>
+				<excerpt>With the 1954 World Championships in England coming up and a lack of high-performance two-seat gliders available, Schweizer’s decided to build one for the contest. They decided the best course of action was a make a 120% scaled up 1-23D with a wingspan of 60 ft.</excerpt>
+			</model>
+			
+				<!--SGS 1-26-->
+			<model>
+				<button-dispatch>down:SGS_1-26</button-dispatch>
+				<button-dispatch_3-View>down:SGS_1-26_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_1-26.jpg</imagepath>
+				<title>SGS 1-26</title>
+				<button1>SGS_1-26</button1>
+				<button2>SGS_1-26_2</button2>
+				<year>Year Built: 1954</year>
+				<built>Quantity Built: 689</built>
+				<excerpt>The popular 1-26 was the basis for the creation of the 1-26 Association, which sponsored single design contests and recreational flying in this type of ship. The Association’s annual Championships is possibly the fairest type of competition, since it removes the performance differences seen in contests using various ships.</excerpt>
+			</model>
+			
+			<!--SGS 1-29-->
+			<model>
+				<button-dispatch>down:SGS_1-29</button-dispatch>
+				<button-dispatch_3-View>down:SGS_1-29_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_1-29.jpg</imagepath>
+				<title>SGS 1-29</title>
+				<button1>SGS_1-29</button1>
+				<button2>SGS_1-29_2</button2>
+				<year>Year Built: 1958</year>
+				<built>Quantity Built: 1</built>
+				<excerpt>The 1-29 was Schweizer’s first attempt at using a laminar flow airfoil. Laminar flow airfoils reduce drag by keeping what is called the boundary layer attached to the airfoil. The laminar flow airfoils had not been used extensively in production at this time because they were very sensitive to inaccuracies or inconsistences from typical production methods.</excerpt>
+			</model>
+			
+				<!--SGS 2-32-->
+			<model>
+				<button-dispatch>down:SGS_2-32</button-dispatch>
+				<button-dispatch_3-View>down:SGS_2-32_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_2-32.jpg</imagepath>
+				<title>SGS 2-32</title>
+				<button1>SGS_2-32</button1>
+				<button2>SGS_2-32_2</button2>
+				<year>Year Built: 1962</year>
+				<built>Quantity Built: 87</built>
+				<excerpt>The 2-32 is a high-performance two-place sailplane that has been used for numerous record breaking flights. At one time the 2-32 held the two-place speed records over 100 km, 300 km and 500 km courses, as well as many distance, out and return and altitude records in both the men's and women's categories.</excerpt>
+			</model>
+			
+			<!--SGS 2-33-->
+			<model>
+				<button-dispatch>down:SGS_2-33</button-dispatch>
+				<button-dispatch_3-View>down:SGS_2-33_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_2-33.jpg</imagepath>
+				<title>SGS 2-33</title>
+				<button1>SGS_2-33</button1>
+				<button2>SGS_2-33_2</button2>
+				<year>Year Built: 1965</year>
+				<built>Quantity Built: 579</built>
+				<excerpt>   </excerpt>
+			</model>
+			
+			<!--SGS 1-34-->
+			<model>
+				<button-dispatch>down:SGS_1-34</button-dispatch>
+				<button-dispatch_3-View>down:SGS_1-34_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_1-34.jpg</imagepath>
+				<title>SGS 1-34</title>
+				<button1>SGS_1-34</button1>
+				<button2>SGS_1-34_2</button2>
+				<year>Year Built: 1969</year>
+				<built>Quantity Built: 93</built>
+				<excerpt>The 1-34 was designed and built to the original FAI Standard Class philosophy of a high performance sailplane that is relatively inexpensive, easy to fly , with terminal velocity dive brakes and rugged construction as to be practical for club use. The 1-34 became a very popular club ship due to its relatively high performance, docile flight characteristics and rugged nature.</excerpt>
+			</model>
+			
+			<!--SGS 1-35-->
+			<model>
+				<button-dispatch>down:SGS_1-35</button-dispatch>
+				<button-dispatch_3-View>down:SGS_1-35_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_1-35.jpg</imagepath>
+				<title>SGS 1-35</title>
+				<button1>SGS_1-35</button1>
+				<button2>SGS_1-35_2</button2>
+				<year>Year Built: 1973</year>
+				<built>Quantity Built: 101</built>
+				<excerpt>   </excerpt>
+			</model>
+			
+			<!--SGS 1-36-->
+			<model>
+				<button-dispatch>down:SGS_1-36</button-dispatch>
+				<button-dispatch_3-View>down:SGS_1-36_2</button-dispatch_3-View>
+				<posx>-860</posx>
+				<b1posx>1250</b1posx>
+				<b2posx>870</b2posx>
+				<imagepath>Glider Timeline/library/images/SGS_1-36.jpg</imagepath>
+				<title>SGS 1-36</title>
+				<button1>SGS_1-36</button1>
+				<button2>SGS_1-36_2</button2>
+				<year>Year Built: 1979</year>
+				<built>Quantity Built: 43</built>
+				<excerpt>The 1-36 was designed to the successor to the enormously popular 1-26. The 1-36 was offered in two configurations. The first version has a forward wheel location that made the ship a “tail dragger” and removed the nose skid. The second version had an aft wheel location which made it a “nose-sitter” with an aluminum skid.</excerpt>
+			</model>
+		
+		</RendererData>
+
+	</RenderKit>
+
+</cml>

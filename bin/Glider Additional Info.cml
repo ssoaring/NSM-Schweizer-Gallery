@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cml css="styles.css" tuio="false" simulator="false">
+
+	<RenderKit dataRootTag="Add_Info">
+		<Renderer dataPath="Glider Timeline/Render Data/Additional Info Data.cml">	
+			<TouchContainer id="{panel-id}" width="600" height="890" visible="false" touchChildren="true">
+			
+				<!--Info Panel Screen-->
+				<TouchContainer touchChildren="true">
+					<Graphic visible="true" shape="rectangle" width="600" height="890" fill="color" color="0x0000000" lineStroke="0" alpha="1" touchChildren="false">
+						<Image src="{imagepath-2}" width="600" height="500"/>
+						<Text id="txt1" text="{Add_Info-text}" x="50" y="540" width="500" height="860" color="0xffffff" wordWrap="true" multiline="true" fontSize="20" font="OpenSansRegular"/>									
+					</Graphic>
+					
+					
+					<!--Close Button-->
+					<Hotspot component="{panel-id}" visible="true" tether="false">
+						<Button x="560" y="850" class="close_btn" dispatch="down:Add_Info" initial="close-up" down="close-up" up="close-up" out="close-up" scale="0.75">
+							<Container id="close-up" class="up" >
+								<Graphic alpha="1" shape="circle" radius="20" lineStroke="0" color="0xffffff" />	
+								<SWF alpha="1" x="11" y="11" color="0x000000" scale="1.6" ref="org.openexhibits.assets.Close"/>
+							</Container>
+							<Container id="close-down" class="down">
+								<Graphic alpha="1" shape="circle" radius="20" lineStroke="0" color="0x000000" />	
+								<SWF alpha="1" x="11" y="11" color="0x000000" scale="1.6" ref="org.openexhibits.assets.Close" />
+							</Container>	
+							<Container id="close-hit" class="hit">
+								<Graphic id="close-hit-bg" shape="circle" radius="20" alpha="0" />
+							</Container>
+						</Button>
+					</Hotspot>
+					
+				</TouchContainer>
+							
+			</TouchContainer>
+		</Renderer>
+	</RenderKit>
+</cml>

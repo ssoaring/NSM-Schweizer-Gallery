@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cml tuio="false" simulator="false" css="styles.css">
+
+<Album x="20" y="120" margin="20" width="1920" height="890" backgroundAlpha="0" touchChildren="true" clusterBubbling="true" dragGesture="album-drag">
+
+
+	<RenderKit dataRootTag="model">
+		<Renderer dataPath="Glider Timeline/Render Data/Glider Models Data.cml">	
+			<TouchContainer width="600" height="890" touchChildren="true">
+				<Graphic shape="rectangle" width="600" height="890" fill="color" color="0xffffff" lineStroke="0" alpha="0.7"/>
+				<TouchContainer touchChildren="true" >
+					<Image src="{imagepath}" width="600" height="500" resize="true"/>
+				</TouchContainer>
+				<TouchContainer touchChildren="true" targetParent="true">
+				<Text text="{title}" y="490" textAlign="center" color="0x000000" fontSize="60" width="600" font="OpenSansRegular" selectable="false"/>
+				<Text text="{year}" y="560" textAlign="center" color="0x000000" fontSize="25" width="600" font="OpenSansRegular" selectable="false"/>
+				<Text text="{built}" y="590" textAlign="center" color="0x000000" fontSize="25" width="600" font="OpenSansRegular" selectable="false"/>
+				<Text text="{excerpt}" x="20" y="635" selectable="false" color="0x000000" fontSize="19" alpha="0.6" wordWrap="true" multiline="true" width="540" height="300" font="OpenSansRegular"/>
+				</TouchContainer>
+				
+				<!--Additional Info Button-->
+				<Hotspot component="{button1}" visible="true" tether="false">
+					<Button dispatch="down:model" initial="info-up" down="info-up" up="info-up" out="info-up" >
+						<Container id="info-up" x="390" y="840">
+							<Graphic alpha="0.5" shape="rectangle" width="200" height="40" color="0x000000" />	
+							<Text text="Additional Info" textAlign="center" color="0xFFFFFF" fontSize="20" width="200" font="OpenSansRegular" selectable="false"/>
+						</Container>
+					</Button>
+				</Hotspot>	
+				
+				<!--Aircraft 3-View Button-->
+				<Hotspot component="{button2}" visible="true" tether="false">
+					<Button dispatch="down:model" initial="3-View-up" down="3-View-up" up="3-View-up" out="3-View-up">
+						<Container id="3-View-up" x="10" y="840">
+							<Graphic alpha="0.5" shape="rectangle" width="200" height="40" color="0x000000" />
+							<Text text="3-View Drawing" textAlign="center" color="0xFFFFFF" fontSize="20" width="200" font="OpenSansRegular" selectable="false"/>
+						</Container>
+					</Button>
+				</Hotspot>
+			
+			</TouchContainer>
+		</Renderer>
+	</RenderKit>
+	
+</Album>
+	
+</cml>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cml>
+	<RenderKit>			
+		
+		<RendererData>
+			<!--SGP 1-1-->
+			<Add_Info>
+				<panel-id>SGP_1-1</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGP_1-1_2.jpg</imagepath-2>
+				<Add_Info-text>The 1-1 was built by members of the Mercury Glider Club, which was formed by the Schweizer’s from members of the Mercury Add_Info Airplane Club. The Club raised about $150.00 for material and a shock cord and built the glider in less than one year. The Schweizer brothers walked two miles to and from school to save bus fare, which they instead gave to the Club as their contribution. The 1-1 was first flown on June 19, 1930.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGU 1-2-->
+			<Add_Info>
+				<panel-id>SGU_1-2</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGU_1-2.jpg</imagepath-2>
+				<Add_Info-text>The 1-2 was built with a mahogany plywood fuselage to streamline it and give it the better performance of a “secondary”. Due to the size and complicated nature of the design the 1-2 was put aside in 1932 to work on the smaller, lighter, less complicated SGU 1-3. Upon completion of the 1-3 work renewed on the 1-2 and was completed in 1934. The picture shown is the only surviving reproducible image left of the 1-2.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGU 1-3-->
+			<Add_Info>
+				<panel-id>SGU_1-3</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGU_1-3_2.jpg</imagepath-2>
+				<Add_Info-text>The 1-2 used a Durand 24 airfoil which was flat bottomed to allow the ribs to be manufactured easier. The fuselage was very similar to the 1-1, but had a fabric covered fairing that was much lighter than the plywood covering on the 1-2. Between the smaller wingspan and fabric covered fuselage the 1-2 was 50 lbs lighter than the 1-3.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGU 1-6-->
+			<Add_Info>
+				<panel-id>SGU_1-6</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGU_1-6_2.jpg</imagepath-2>
+				<Add_Info-text>The 1-6 was all-metal except for fabric covering the tail surfaces and portions of the fuselage and wings. It won 3rd place in the Eaton Design Competition held during the 1937 National Soaring Competition in Elmira.</Add_Info-text>
+			</Add_Info>
+			
+				<!--SGU 1-7-->
+			<Add_Info>
+				<panel-id>SGU_1-7</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGU_1-7_2.jpg</imagepath-2>
+				<Add_Info-text>This aircraft is completely fabric covered, and features a welded steel tube fuselage with an all metal wing and tail surfaces. The 1-7 on exhibit in the gallery was the second one to be built, and was the first glider that the Schweizer sold. It was originally purchased by the Altosaurus Soaring Club and called the Pterodactyl.</Add_Info-text>
+			</Add_Info>
+				
+			<!--SGS 2-8-->
+			<Add_Info>
+				<panel-id>SGS_2-8</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_2-8_2.jpg</imagepath-2>
+				<Add_Info-text>The Schweizer Brothers got their first big break in 1942 when the U.S. Army ordered 3 sailplanes to be used for training new pilots. In that same year the Navy ordered 2. The Army version was designated the TG-2 and the Navy version the LNS-1. A total of 57 were built before the designed was changed due to lack of construction materials necessary for the war effort.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 2-12-->
+			<Add_Info>
+				<panel-id>SGS_2-12</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_2-12_2.jpg</imagepath-2>
+				<Add_Info-text>The 2-12 was designated the TG-3 by the U.S. Army. The original military contract was for seventy-five TG-3s each with a trailer to cost $3,900 a piece. After the war ended the government quickly dumped most of the surplus gliders, including many TG-2 & TG-3s, built during the war onto the market for $500-$600 each. On November 4, 1945 Frank Hurtt and Paul A. Schweizer broke the multi-place duration record in a TG-3A. The flight was flown at Harris Hill in ridge lift and lasted 9 hours 17 minutes and was the first post war record set in the USA.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGU 1-19-->
+			<Add_Info>
+				<panel-id>SGU_1-19</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGU_1-19_2.jpg</imagepath-2>
+				<Add_Info-text>On an experimental basis, Ernie converted a 1-19 to a self launching motor glider. A 16hp Andover Motors engine, which was an auxiliary powerplant used on the B-29 bomber, was mounted over the wing center section and fitted with a pusher prop. It was an interesting experimental vehicle, but it had little commercial value as it did not have enough power to  fly out of ‘ground effect’. Unfortunately there were no satisfactory 20 to 25 hp engines available at the time that would have made it a practical motor glider.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGU 1-20-->
+			<Add_Info>
+				<panel-id>SGU_1-20</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGU_1-20_2.jpg</imagepath-2>
+				<Add_Info-text>This increase in span greatly increase performance by reducing minimum sink by .4 ft/sec and increasing L/D by almost 3 points. Only one of the 1-20s was ever produced by the factory. The plans were made available to all the 1-19 owners and a couple of 1-19s were converted to the higher performance configuration.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 1-21-->
+			<Add_Info>
+				<panel-id>SGS_1-21</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_1-21_2.jpg</imagepath-2>
+				<Add_Info-text>In 1947 Dick Comey won the U.S. Nationals in the 1-21. The 1-21 won the Nationals again in 1957 under the direction of pilot Stan Smith.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGU 2-22-->
+			<Add_Info>
+				<panel-id>SGU_2-22</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGU_2-22_2.jpg</imagepath-2>
+				<Add_Info-text>   </Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 1-23-->
+			<Add_Info>
+				<panel-id>SGS_1-23</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_1-23_2.jpg</imagepath-2>
+				<Add_Info-text>Most of the seventy-four 1-23s built were one of four production Add_Infos—the Standard, D, G, and H/H-15. Pilots flying 1-23 Standards placed 2nd, 3rd, and 4th at the 1950 Nationals, and later that year Bill Ivans set world altitude (42,070’) and height gain (30,101’) records in the type. Paul MacCready won the 1953 Nationals in a 1-23D, while other ‘D’ Add_Infos placed 3rd and 4th in the contest. In 1961 Paul Bikle, flying the sole 1-23E set world altitude (46,267’) and height gain (42,303’) records that stood for over 40 years.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 1-24-->
+			<Add_Info>
+				<panel-id>SGS_1-24</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_1-24_2.jpg</imagepath-2>
+				<Add_Info-text>The fuselage for Howie was taken off the 1-23 production line and suspended from the ceiling while he worked on the tooling and parts for the wings. Seeing it hanging there, he thought it would be a good idea to make some space behind the cockpit to take one of his small sons for a ride. So after persuading Ernie that changes were allowable, he proceeded to cut the fuselage and add a 10” bay between the back of the front seat and the main wing attach bulkhead. This made the 1-24 unofficially a 1.5-seat sailplane.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 2-25-->
+			<Add_Info>
+				<panel-id>SGS_2-25</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_2-25_2.jpg</imagepath-2>
+				<Add_Info-text>The 2-25 did very well at the 1954 competition, with pilots Stanley Smith & Robert Kidder. It was in second place after three days when an unfortunate accident with a fence forced them to withdraw from the contest. Ever after the withdrawal they still managed third place. The 2-25 was used by the Jet Stream Project in studying meteorology and more specifically the understanding of lee waves and their interaction with high-level jet streams. It was flown above 40,000 ft numerous times during these studies.</Add_Info-text>
+			</Add_Info>
+			
+				<!--SGS 1-26-->
+			<Add_Info>
+				<panel-id>SGS_1-26</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_1-26_2.jpg</imagepath-2>
+				<Add_Info-text>The 1-26 was sold in many different configurations including the Standard, A, B, C, D, E Add_Infos. The Standard, A, B, C Add_Infos are considered the early Add_Infos and the D & E are considered the late Add_Infos. The early Add_Infos had a welded steel fuselage with aluminum wings with various amounts of fabric covering. The later Add_Infos had a redesigned aluminum wing with all aluminum covering & a semi-monocoque fuselage to reduce production costs. The A & C Add_Infos were kit versions of the Standard & B Add_Infos respectively that when completed would still be a fully certified aircraft.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 1-29-->
+			<Add_Info>
+				<panel-id>SGS_1-29</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_1-29_2.jpg</imagepath-2>
+				<Add_Info-text>The 1-29 used a standard 1-23G fuselage with a constant chord 15 meter wing. The constant chord allowed them to make exact rib tooling without much cost as each rib was exactly the same in outline. There would be a slight penalty in drag compared with a tapered wing, but it was acceptable for an experimental aircraft. It was flown by Paul Schweizer in the 1959 Nationals to 7th place in the Open Class. It was also flown in numerous other National competitions by a number of different pilots.</Add_Info-text>
+			</Add_Info>
+			
+				<!--SGS 2-32-->
+			<Add_Info>
+				<panel-id>SGS_2-32</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_2-32_2.jpg</imagepath-2>
+				<Add_Info-text>The 2-32 is unique in that it is a 2/3-place sailplane. There is enough room in the rear seat to fit two small adults or an adult and a child. A special version of the 2-32 was built for Joe Lincoln with a 67 ft wingspan, water ballast, retractable landing gear, flush tow release & low profile canopy. The aircraft was donated to the NSM by Joe and is currently in storage. The picture shown above is Ernie, Paul, & Bill Schweizer sitting in the 1000th Schweizer Sailplane built.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 2-33-->
+			<Add_Info>
+				<panel-id>SGS_2-33</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_2-33_2.jpg</imagepath-2>
+				<Add_Info-text>   </Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 1-34-->
+			<Add_Info>
+				<panel-id>SGS_1-34</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_1-34_2.jpg</imagepath-2>
+				<Add_Info-text>The terminal velocity dive brakes required extensive flight testing and modifications which increased the cost and forced the aircraft to be developed over a period of a couple years in order to spread out that cost. This delay led to the aircraft not really being competitive in competition by the time it was put into production. Unfortunately after that considerable cost in developing the 1-34 to meet the terminal velocity dive brake requirements of the Standard Class, the FAI decided to change the terminal velocity requirements.</Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 1-35-->
+			<Add_Info>
+				<panel-id>SGS_1-35</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_1-35_2.jpg</imagepath-2>
+				<Add_Info-text>   </Add_Info-text>
+			</Add_Info>
+			
+			<!--SGS 1-36-->
+			<Add_Info>
+				<panel-id>SGS_1-36</panel-id>
+				<imagepath-2>Glider Timeline/library/images/SGS_1-36_2.jpg</imagepath-2>
+				<Add_Info-text>In the early 1980s, a SGS 1-36 sailplane was modified for the NASA controlled, deep-stall flight program. Schweizer modified the horizontal stabilizer (T-tail configuration) so that it could pivot as much as 70 degrees with the leading edge down. The objectives of the program were to demonstrate the feasibility of piloted, controlled flight at very high angles of attack and to refine piloting techniques required to make a safe transition into, maneuver in, and recover from controlled flight at very high angles of attack. The NASA 1-36 is currently in storage in the NSM collection.</Add_Info-text>
+			</Add_Info>
+		
+		</RendererData>
+
+	</RenderKit>
+
+</cml>

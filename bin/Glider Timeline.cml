@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cml tuio="false" simulator="false" css="styles.css">
+
+<TouchContainer x="-250" y="0" mouseChildren="true" visible="true">
+
+	<!-- Background Image -->
+	<Image id="background" src="Glider Timeline/library/images/timeline-bg.png" />  
+	
+	<!-- Base Glider Timeline Renderer -->
+	<Include src="Glider Timeline/Base Model Timeline.cml"/>
+	
+	<!-- Glider Additional Info Timeline Renderer -->
+	<Include src="Glider Timeline/Glider Additional Info.cml"/>
+	
+	<!-- Glider 3-View Timeline Renderer -->
+	<Include src="Glider Timeline/Glider 3-Views.cml"/>
+		
+	<!-- Close Button -->	
+	<Include src="Glider Timeline/library/cml/buttons/closeButton.cml"/>
+	
+	<LibraryKit>
+		<Library type="swf" src="Glider Timeline/library/swfs/openexhibits_assets.swf" />	
+	</LibraryKit>
+	
+</TouchContainer>
+	
+</cml>
